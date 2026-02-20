@@ -1,18 +1,23 @@
 {
-  "name": "VAMP FREESTYLE",
-  "short_name": "VampApp",
+  "name": "Flofly",
+  "short_name": "flofly",
+  "description": "for you",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#000000",
-  "theme_color": "#ff0000",
+  "theme_color": "#000000",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://www.dropbox.com/scl/fi/cfp7mriowov60r6f8frk9/wp2591994.jpg?rlkey=z6uboecrr26qiv74istuynfn2&st=nc9vqwyo&raw=1",
+      "src": "https://www.dropbox.com/scl/fi/cmyiyxtv72mtg37cu9x9a/FLO.png?rlkey=bdb86dr6gals2g4p5lkl3wlf8&st=mglgalnj&raw=1",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.dropbox.com/scl/fi/cmyiyxtv72mtg37cu9x9a/FLO.png?rlkey=bdb86dr6gals2g4p5lkl3wlf8&st=mglgalnj&raw=1",
+      "sizes": "192x192",
+      "type": "image/png"
     }
   ]
 }
-
