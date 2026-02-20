@@ -1,0 +1,18 @@
+{
+  "name": "VAMP FREESTYLE",
+  "short_name": "VampApp",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff0000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://www.dropbox.com/scl/fi/cfp7mriowov60r6f8frk9/wp2591994.jpg?rlkey=z6uboecrr26qiv74istuynfn2&st=nc9vqwyo&raw=1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
